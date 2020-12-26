@@ -1,0 +1,12 @@
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack=[]
+        table={')':'(','}':'{',']':'['}
+        
+        for char in s:
+            if char not in table:
+                stack.append(char)
+            elif not stack or stack.pop()!=table[char]:
+                return False
+
+        return not stack
