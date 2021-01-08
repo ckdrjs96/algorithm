@@ -6,7 +6,6 @@ class Node:
         self.next = next
 
 
-
 def make_listnode(new):
     head = Node(None)
     tail = head
