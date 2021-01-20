@@ -1,18 +1,18 @@
-def subtree(son1,son2,now):
+def subtree(now):
     global cnt
 
     if now==0:
         return
 
     cnt+=1
+
+    #if문 필요없이 그냥해도된다
     if son2[now] !=0:
-
         now2=son2[now]
-        subtree(son1,son2,now2)
-
+        subtree(now2)
 
     now=son1[now]
-    subtree(son1, son2, now)
+    subtree(now)
 
 
 #T=1
@@ -35,7 +35,7 @@ for test_case in range(1, T + 1):
             son2[head]=tail
 
     cnt=0
-    subtree(son1,son2,N)
+    subtree(N)
     print(f'#{test_case}',cnt)
 
 
