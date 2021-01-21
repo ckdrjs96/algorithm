@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dff0694b-4e49-4f17-b93e-cce8deef3cec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/swea_5177.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mRtuhnLAoSPVNVg15RcKXMY2P4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.swea_5177">
+    <configuration name="swea_4880" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="samsung_swea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea_4880.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="swea_4881" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="samsung_swea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea_4881.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="swea_5174" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="samsung_swea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea_5174.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="swea_5176" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="samsung_swea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea_5176.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="swea_5177" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="samsung_swea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea_5177.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.swea_5177" />
+        <item itemvalue="Python.swea_5176" />
+        <item itemvalue="Python.swea_5174" />
+        <item itemvalue="Python.swea_4881" />
+        <item itemvalue="Python.swea_4880" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dff0694b-4e49-4f17-b93e-cce8deef3cec" name="Default Changelist" comment="" />
+      <created>1609468455619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609468455619</updated>
+      <workItem from="1609468458027" duration="15693000" />
+      <workItem from="1609652812000" duration="7629000" />
+      <workItem from="1609858026183" duration="2703000" />
+      <workItem from="1609895894768" duration="7197000" />
+      <workItem from="1609980439198" duration="8648000" />
+      <workItem from="1610014761559" duration="9646000" />
+      <workItem from="1610068047762" duration="7641000" />
+      <workItem from="1610159246121" duration="5078000" />
+      <workItem from="1610283219683" duration="6610000" />
+      <workItem from="1610331040102" duration="6556000" />
+      <workItem from="1610414616661" duration="3414000" />
+      <workItem from="1610525755389" duration="2672000" />
+      <workItem from="1610587419558" duration="4290000" />
+      <workItem from="1610619834749" duration="10708000" />
+      <workItem from="1610689119843" duration="2148000" />
+      <workItem from="1610762924984" duration="6573000" />
+      <workItem from="1610867599715" duration="12754000" />
+      <workItem from="1610969007666" duration="10693000" />
+      <workItem from="1611024901350" duration="2868000" />
+      <workItem from="1611150034589" duration="4249000" />
+      <workItem from="1611190244214" duration="6329000" />
+    </task>
+    <task id="LOCAL-00001" summary="git commit -m '5099'">
+      <created>1609487310326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609487310326</updated>
+    </task>
+    <task id="LOCAL-00002" summary="5012">
+      <created>1609662661018</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609662661018</updated>
+    </task>
+    <task id="LOCAL-00003" summary="5108">
+      <created>1609860963713</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609860963713</updated>
+    </task>
+    <task id="LOCAL-00004" summary="listnode">
+      <created>1610025240522</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610025240522</updated>
+    </task>
+    <task id="LOCAL-00005" summary="listnode3">
+      <created>1610082988216</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610082988216</updated>
+    </task>
+    <task id="LOCAL-00006" summary="listnode4">
+      <created>1610162424251</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610162424251</updated>
+    </task>
+    <task id="LOCAL-00007" summary="list1">
+      <created>1610291521765</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610291521765</updated>
+    </task>
+    <task id="LOCAL-00008" summary="list1">
+      <created>1610345776923</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610345776923</updated>
+    </task>
+    <task id="LOCAL-00009" summary="list2">
+      <created>1610379082626</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610379082626</updated>
+    </task>
+    <task id="LOCAL-00010" summary="list2">
+      <created>1610461793480</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610461793480</updated>
+    </task>
+    <task id="LOCAL-00011" summary="list2">
+      <created>1610529668153</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610529668153</updated>
+    </task>
+    <task id="LOCAL-00012" summary="string">
+      <created>1610629053145</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610629053145</updated>
+    </task>
+    <task id="LOCAL-00013" summary="string">
+      <created>1610689975377</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610689975377</updated>
+    </task>
+    <task id="LOCAL-00014" summary="stack2">
+      <created>1610771708323</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1610771708323</updated>
+    </task>
+    <task id="LOCAL-00015" summary="stack2">
+      <created>1610892137919</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1610892137919</updated>
+    </task>
+    <task id="LOCAL-00016" summary="stack2">
+      <created>1611066807886</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611066807886</updated>
+    </task>
+    <task id="LOCAL-00017" summary="tree">
+      <created>1611154796388</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1611154796388</updated>
+    </task>
+    <task id="LOCAL-00018" summary="tree">
+      <created>1611157308392</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1611157308392</updated>
+    </task>
+    <task id="LOCAL-00019" summary="tree">
+      <created>1611193932967</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1611193932968</updated>
+    </task>
+    <task id="LOCAL-00020" summary="tree">
+      <created>1611217950844</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1611217950844</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit -m '5099'" />
+    <MESSAGE value="5012" />
+    <MESSAGE value="5108" />
+    <MESSAGE value="listnode" />
+    <MESSAGE value="listnode3" />
+    <MESSAGE value="listnode4" />
+    <MESSAGE value="list1" />
+    <MESSAGE value="list2" />
+    <MESSAGE value="string" />
+    <MESSAGE value="stack2" />
+    <MESSAGE value="tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="tree" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1373" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609472458484">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1373" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040/-1680.108.1680.1010@0.0.2560.1040" timestamp="1609472458484" />
+    <state width="1222" height="276" key="GridCell.Tab.0.bottom" timestamp="1611217498937">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1222" height="276" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1680.108.1680.1010@0.0.2560.1040" timestamp="1611217498937" />
+    <state width="1222" height="276" key="GridCell.Tab.0.center" timestamp="1611217498937">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1222" height="276" key="GridCell.Tab.0.center/0.0.2560.1040/-1680.108.1680.1010@0.0.2560.1040" timestamp="1611217498937" />
+    <state width="1222" height="276" key="GridCell.Tab.0.left" timestamp="1611217498937">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1222" height="276" key="GridCell.Tab.0.left/0.0.2560.1040/-1680.108.1680.1010@0.0.2560.1040" timestamp="1611217498937" />
+    <state width="1222" height="276" key="GridCell.Tab.0.right" timestamp="1611217498937">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1222" height="276" key="GridCell.Tab.0.right/0.0.2560.1040/-1680.108.1680.1010@0.0.2560.1040" timestamp="1611217498937" />
+    <state x="1420" y="168" key="SettingsEditor" timestamp="1609487823266">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1420" y="168" key="SettingsEditor/0.0.2560.1040/-1680.108.1680.1010@0.0.2560.1040" timestamp="1609487823266" />
+    <state x="1511" y="255" key="Vcs.Push.Dialog.v2" timestamp="1611217954446">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1511" y="255" key="Vcs.Push.Dialog.v2/0.0.2560.1040/-1680.108.1680.1010@0.0.2560.1040" timestamp="1611217954446" />
+    <state x="1719" y="423" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1609487858879">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1719" y="423" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1040/-1680.108.1680.1010@0.0.2560.1040" timestamp="1609487858879" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_5099.coverage" NAME="swea_5099 Coverage Results" MODIFIED="1609486879181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4865.coverage" NAME="swea_4865 Coverage Results" MODIFIED="1610689816726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_5177.coverage" NAME="swea_5177 Coverage Results" MODIFIED="1611217498930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4880.coverage" NAME="swea_4880 Coverage Results" MODIFIED="1610890118712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_5122.coverage" NAME="swea_5122 Coverage Results" MODIFIED="1610162331621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_5108_v2.coverage" NAME="swea_5108_v2 Coverage Results" MODIFIED="1610025104942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4874.coverage" NAME="swea_4874 Coverage Results" MODIFIED="1610770307306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_5110_v1.coverage" NAME="swea_5110_v1 Coverage Results" MODIFIED="1609900863537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4831.coverage" NAME="swea_4831 Coverage Results" MODIFIED="1610290599591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_5120.coverage" NAME="swea_5120 Coverage Results" MODIFIED="1610082770890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4839.coverage" NAME="swea_4839 Coverage Results" MODIFIED="1610527300880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4836.coverage" NAME="swea_4836 Coverage Results" MODIFIED="1610378689004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_5102.coverage" NAME="swea_5102 Coverage Results" MODIFIED="1609662302483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4843.coverage" NAME="swea_4843 Coverage Results" MODIFIED="1610527687244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4875.coverage" NAME="swea_4875 Coverage Results" MODIFIED="1610881345478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4864_v2.coverage" NAME="swea_4864_v2 Coverage Results" MODIFIED="1610628837642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4834.coverage" NAME="swea_4834 Coverage Results" MODIFIED="1610291227027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4837.coverage" NAME="swea_4837 Coverage Results" MODIFIED="1610416841821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4881.coverage" NAME="swea_4881 Coverage Results" MODIFIED="1611066697707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_5108.coverage" NAME="swea_5108 Coverage Results" MODIFIED="1609860541009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4828.coverage" NAME="swea_4828 Coverage Results" MODIFIED="1610285243561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4835.coverage" NAME="swea_4835 Coverage Results" MODIFIED="1610332287921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4864.coverage" NAME="swea_4864 Coverage Results" MODIFIED="1610625192871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_4861.coverage" NAME="swea_4861 Coverage Results" MODIFIED="1610638762064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_5176.coverage" NAME="swea_5176 Coverage Results" MODIFIED="1611217014670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_5174.coverage" NAME="swea_5174 Coverage Results" MODIFIED="1611155202000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/samsung_swea$swea_5110_v2.coverage" NAME="swea_5110_v2 Coverage Results" MODIFIED="1610024081465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
