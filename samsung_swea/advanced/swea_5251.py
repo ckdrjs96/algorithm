@@ -1,3 +1,5 @@
+#dijkstra algoritm
+
 def dijkstra(G):
     inf=float('inf')
     D=[inf]*(N+1)
@@ -26,7 +28,7 @@ def dijkstra(G):
 T =int(input())
 for test_case in range(1, T + 1):
     N,E= map(int, input().split())
-    #board=[list(map(int, input().split())) for _ in range(E)]
+    #graph 입력저장
     graph=dict()
     for _ in range(E):
         s,e,w=map(int, input().split())
@@ -34,4 +36,5 @@ for test_case in range(1, T + 1):
             graph[s].append([e,w])
         else:
             graph[s]=[[e,w]]
+
     print(f'#{test_case}',dijkstra(graph))
