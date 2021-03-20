@@ -6,6 +6,7 @@ Round1 : 2021.03.20
 
 ## Problem
 solve:4, timeout:2
+
 1.대여 시간을 추천해드립니다 (solve)
 f-string {val:02} 0으로 2자리수 맞추기로 코드 줄일수있었다.
 
