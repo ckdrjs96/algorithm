@@ -5,7 +5,7 @@ https://www.wanted.co.kr/events/scofe2021
 Round1 : 2021.03.20
 
 ## Problem
-'''
+```
 solve:4, timeout:2
 
 1.대여 시간을 추천해드립니다 (solve)
@@ -24,4 +24,4 @@ dfs,pruning 사용 하지만 시간초과
 
 6.팝업스토어(solve)
 Dynamic programming
-'''
+```
