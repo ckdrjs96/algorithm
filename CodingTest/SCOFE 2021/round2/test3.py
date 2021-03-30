@@ -38,11 +38,3 @@ for _ in range(Q):
             print('no')
     else:
         print('no')
-    #
-    # if cnt>0:
-    #     if find_root(down,up):
-    #         print('yes')
-    #     else:
-    #         print('no')
-    # else:
-    #     print('no')
