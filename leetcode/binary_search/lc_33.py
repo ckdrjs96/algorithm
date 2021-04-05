@@ -1,36 +1,34 @@
 class Solution:
-    idx=0
     def search(self, nums: List[int], target: int) -> int:
-        def search2(nums: List[int], target: int) -> int:
 
-            n = len(nums)
-            if n == 0:
-                self.idx = -1
-                return self.idx
-            half = n // 2
-            # print(nums,self.idx,half)
-            if nums[half] == target:
-                self.idx += half
-                # print(self.idx)
-                return self.idx
+        # 최솟값 위치 찾기
+        left = 0
+        right = len(nums) - 1
 
-            elif nums[half] < target:
-                self.idx += half + 1
-                self.search(nums[half + 1:], target)
-
+        while left < right:
+            mid = left + (right - left) // 2
+            if nums[mid] > nums[right]:
+                left = mid + 1
             else:
-                self.search(nums[:half], target)
+                right = mid
 
-            return self.idx
+        pivot = left
 
-        n = len(nums)
-        i = 0
-        while nums[i] > nums[n - i - 1]:
-            i += 1
-        if nums[i] > nums[n - i]:
-            i = n - i
+        nums = nums[left:] + nums[:left]
 
-        print(i)
-        new_nums=nums[i:]+nums[:i]
-        p_idx=search2(nums,target)
+        left, right = 0, len(nums) - 1
+        while left <= right:
+            mid = left + (right - left) // 2  # overflow 방지
+            # mid_pivot=(mid+pivot) % len(nums) #리스트 변화주지말고 mid값을 회전시키면서 판별가능
+            if nums[mid] < target:
+                left = mid + 1
+            elif nums[mid] > target:
+                right = mid - 1
+            else:
+                #아래 분기를 간소화 가능 return (mid+pivot) %len(nums)
+                if mid < len(nums) - pivot:
+                    return pivot + mid
+                else:
+                    return mid - len(nums) + pivot
+        return -1
 
